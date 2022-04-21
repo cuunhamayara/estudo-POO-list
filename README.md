@@ -1,0 +1,2 @@
+# estudo-POO-list
+Estudando programação orientada a objeto. O objetivo do exercício era criar produtos, colocá-los em um carrinho - que recebe os produtos em forma de lista. A data era necessária para a criação do carrinho. Além disso, fazer demais operações simples referentes à venda dos produtos. Ps: não tratei exceção alguma ainda, apenas praticando alguns conceitos. Criei duas aplicações: na primeira apenas cumprindo o objetivo do exercício; na segunda, praticando conceitos.
